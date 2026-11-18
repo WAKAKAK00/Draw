@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36">
+  <diagram id="piDafpqhtRUU5qUU-vj8" name="第 1 页">
+    <mxGraphModel dx="2630" dy="2165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_1t3epHATv9mtyeLqpfB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;opacityGroup=1;strokeColor=light-dark(#37cb34, #ededed);strokeWidth=5;" value="" vertex="1">
+          <mxGeometry height="720" width="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="左侧视图" vertex="1">
+          <mxGeometry height="600" width="640" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="右侧视图" vertex="1">
+          <mxGeometry height="600" width="640" x="640" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="左侧特征图显示位置" vertex="1">
+          <mxGeometry height="130" width="130" x="500" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="右侧特征图显示位置" vertex="1">
+          <mxGeometry height="130" width="130" x="650" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保存结果" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="点击测试" vertex="1">
+          <mxGeometry height="60" width="120" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结束测试" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="记录列表" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设置" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_1t3epHATv9mtyeLqpfB-14" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" value="孔数量选择" vertex="1">
+          <mxGeometry height="60" width="150" x="990" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
